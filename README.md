@@ -49,6 +49,10 @@
 <br>
 </div>
 
-
+<imagem>​​
+  < source  media = " (prefere esquema de cores: escuro) "  srcset = " https://raw.githubusercontent.com/thaywanep/thaywanep/output/github-contribution-grid-snake-dark.svg " >
+  < source  media = " (prefere esquema de cores: light) "  srcset = " https://raw.githubusercontent.com/thaywanep/thaywanep/output/github-contribution-grid-snake.svg " >
+  < img  alt = " animação de cobra da grade de contribuição do github "  src = " https://raw.githubusercontent.com/thaywanep/thaywanep/output/github-contribution-grid-snake.svg " >
+</ imagem >
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B96E83&height=120&section=footer"/>
